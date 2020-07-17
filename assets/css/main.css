@@ -176,7 +176,6 @@ hboard2 {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
   line-height: 1.5;
-  margin-bottom: 100em;
 }
 
 @media screen and (max-width: 1680px) {
@@ -1260,6 +1259,12 @@ input[type="radio"] + label:before {
     margin: 0 0 1em 0;
     width: 100%; }
     .image.fit2 img {
+      width: 100%; }
+  .image.fit3 {
+    display: block;
+    margin: 2em 0 1em 0;
+    width: 100%; }
+    .image.fit3 img {
       width: 100%; }
   .image.main {
     display: block;
