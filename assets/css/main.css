@@ -1184,6 +1184,12 @@ input[type="radio"] + label:before {
     border: 0;
     border-radius: 0;
     padding: 0; }
+  .box.board {
+    border: 0;
+    border-radius: 0;
+    padding: 0;
+    margin-bottom: 0;
+  }
 
 /* Icon */
 .icon {
