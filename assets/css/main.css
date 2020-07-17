@@ -1247,7 +1247,7 @@ input[type="radio"] + label:before {
       width: 100%; }
   .image.fit2 {
     display: block;
-    margin-bottom: 1em;
+    margin: 0 0 1 0;
     width: 100%; }
     .image.fit2 img {
       width: 100%; }
