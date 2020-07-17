@@ -176,7 +176,7 @@ hboard2 {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
   line-height: 1.5;
-  margin: 0 0 2em 0;
+  margin: 0 0 5em 0;
 }
 
 @media screen and (max-width: 1680px) {
