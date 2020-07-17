@@ -6,7 +6,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+iframe, h1, h2, h3, h4, h5, h6, hboard, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -164,7 +164,7 @@ h6 {
 hboard {
   font-size: 1.25em;
   color: #3d4449;
-  font-family: "Roboto Slab", serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   line-height: 1.5;
 }
@@ -1245,6 +1245,10 @@ input[type="radio"] + label:before {
     width: 100%; }
     .image.fit img {
       width: 100%; }
+  .image.fit2 {
+    display: block;
+    margin: 0 0 1em 0;
+    width: 100%; }
   .image.main {
     display: block;
     margin: 0 0 3em 0;
