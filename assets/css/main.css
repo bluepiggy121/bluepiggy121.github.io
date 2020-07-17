@@ -177,7 +177,7 @@ hboard2 {
   font-weight: 700;
   line-height: 1.5;
   border-bottom: 0;
-  margin-bottom: 6em;
+  margin-bottom: 3cm;
 }
 
 @media screen and (max-width: 1680px) {
